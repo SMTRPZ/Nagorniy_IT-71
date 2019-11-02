@@ -26,3 +26,10 @@ D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\obj\Debug\Newt Sal
 D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.exe.config
 D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.exe
 D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.pdb
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.exe.config
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.exe
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.pdb
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.csprojAssemblyReference.cache
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.csproj.CoreCompileInputs.cache
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.exe
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.pdb

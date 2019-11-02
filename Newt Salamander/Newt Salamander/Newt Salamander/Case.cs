@@ -9,16 +9,13 @@ namespace Newt_Salamander
     {
         private static Case _case;
         private RandomAnimal randomAnimal;
-        public List<Cell> cells;
-        //comment animals
-        public List<Animal> animals;
+        private List<Cell> cells;
         private bool isDay;
 
         private Case()
         {
             isDay = true;
             cells = new List<Cell>();
-            animals = new List<Animal>();
             randomAnimal = new RandomAnimal();
         }
 
@@ -37,7 +34,6 @@ namespace Newt_Salamander
             Cell cell = CellForAnimal.GetCellForAnimal(animal);
             cell.PlaceAnimal(animal);
             cells.Add(cell);
-            animals.Add(animal);
             return animal;
         }
 
@@ -46,7 +42,6 @@ namespace Newt_Salamander
             Cell cell = CellForAnimal.GetCellForAnimal(animal);
             cell.PlaceAnimal(animal);
             cells.Add(cell);
-            animals.Add(animal);
         }
 
         public List<Cell> GetCells()
@@ -61,16 +56,16 @@ namespace Newt_Salamander
 
         public List<Animal> GetAnimals()
         {
-            //List<Animal> animals = new List<Animal>();
-            //Animal tempAnimal;
-            //for (int i = 0; i < GetCells().Count; i++)
-            //{
-            //    tempAnimal = GetCells()[i].GetAnimal();
-            //    if (tempAnimal != null)
-            //    {
-            //        animals.Add(tempAnimal);
-            //    }
-            //}
+            List<Animal> animals = new List<Animal>();
+            Animal tempAnimal;
+            for (int i = 0; i < GetCells().Count; i++)
+            {
+                tempAnimal = GetCells()[i].GetAnimal();
+                if (tempAnimal != null)
+                {
+                    animals.Add(tempAnimal);
+                }
+            }
             return animals;
         }
 
@@ -155,6 +150,11 @@ namespace Newt_Salamander
             {
                 return "Night";
             }
+        }
+
+        public void CleanCase()
+        {
+            cells = new List<Cell>();
         }
     }
 }

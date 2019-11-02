@@ -15,3 +15,20 @@ D:\Mega\repos\Newt Salamander\Newt Salamander\NewtSalamanderTests\bin\Debug\Micr
 D:\Mega\repos\Newt Salamander\Newt Salamander\NewtSalamanderTests\obj\Debug\NewtSalamanderTests.csproj.CopyComplete
 D:\Mega\repos\Newt Salamander\Newt Salamander\NewtSalamanderTests\obj\Debug\NewtSalamanderTests.dll
 D:\Mega\repos\Newt Salamander\Newt Salamander\NewtSalamanderTests\obj\Debug\NewtSalamanderTests.pdb
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\bin\Debug\NewtSalamanderTests.dll
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\bin\Debug\NewtSalamanderTests.pdb
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\bin\Debug\Newt Salamander.exe
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\bin\Debug\Newt Salamander.pdb
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\bin\Debug\Newt Salamander.exe.config
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\obj\Debug\NewtSalamanderTests.csprojAssemblyReference.cache
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\obj\Debug\NewtSalamanderTests.csproj.CoreCompileInputs.cache
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\obj\Debug\NewtSalamanderTests.csproj.CopyComplete
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\obj\Debug\NewtSalamanderTests.dll
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\NewtSalamanderTests\obj\Debug\NewtSalamanderTests.pdb
