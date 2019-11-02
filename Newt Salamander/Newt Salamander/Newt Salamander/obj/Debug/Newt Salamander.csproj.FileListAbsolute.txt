@@ -1,0 +1,28 @@
+C:\Users\Skotch\source\repos\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.csprojAssemblyReference.cache
+C:\Users\Skotch\source\repos\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.csproj.CoreCompileInputs.cache
+C:\Users\Skotch\source\repos\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.exe.config
+C:\Users\Skotch\source\repos\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.exe
+C:\Users\Skotch\source\repos\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.pdb
+C:\Users\Skotch\source\repos\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.exe
+C:\Users\Skotch\source\repos\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.pdb
+C:\Users\PPK\Desktop\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.csprojAssemblyReference.cache
+C:\Users\PPK\Desktop\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.csproj.CoreCompileInputs.cache
+C:\Users\PPK\Desktop\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.exe
+C:\Users\PPK\Desktop\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.pdb
+C:\Users\PPK\Desktop\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.exe.config
+C:\Users\PPK\Desktop\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.exe
+C:\Users\PPK\Desktop\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.pdb
+C:\Users\Skotch\Desktop\Newt Salamander — копия\Newt Salamander\bin\Debug\Newt Salamander.exe.config
+C:\Users\Skotch\Desktop\Newt Salamander — копия\Newt Salamander\bin\Debug\Newt Salamander.exe
+C:\Users\Skotch\Desktop\Newt Salamander — копия\Newt Salamander\bin\Debug\Newt Salamander.pdb
+C:\Users\Skotch\Desktop\Newt Salamander — копия\Newt Salamander\obj\Debug\Newt Salamander.csprojAssemblyReference.cache
+C:\Users\Skotch\Desktop\Newt Salamander — копия\Newt Salamander\obj\Debug\Newt Salamander.csproj.CoreCompileInputs.cache
+C:\Users\Skotch\Desktop\Newt Salamander — копия\Newt Salamander\obj\Debug\Newt Salamander.exe
+C:\Users\Skotch\Desktop\Newt Salamander — копия\Newt Salamander\obj\Debug\Newt Salamander.pdb
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.csprojAssemblyReference.cache
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.csproj.CoreCompileInputs.cache
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.exe
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\obj\Debug\Newt Salamander.pdb
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.exe.config
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.exe
+D:\Mega\repos\Newt Salamander\Newt Salamander\Newt Salamander\bin\Debug\Newt Salamander.pdb
